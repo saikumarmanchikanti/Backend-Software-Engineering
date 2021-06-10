@@ -4,10 +4,6 @@ The coding exercise includes
 1. The ability for Fetch Rewards participating companies to reward points to consumers.
 2. The ability for consumers to spend points awarded to them.
 
-### Prerequisites
-
-- Java 11 - for installation instructions see https://www.oracle.com/java/technologies/javase-jdk11-downloads.html
-
 ### Usage
 
 #### Windows
