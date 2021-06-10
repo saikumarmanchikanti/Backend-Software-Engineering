@@ -56,7 +56,3 @@ curl -d  localhost:8080/payer/balances
 - Consider what to return if a consumer spends more points than are rewarded to them
 - Add authentication as well as rate limiting
 - Monitoring
-
-### Note
-
-I made the decision to use Spring Boot since I haven't used it before and wanted to take the oppurtunity to learn it while also doing the assesment. 
